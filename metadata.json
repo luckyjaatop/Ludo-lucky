@@ -1,0 +1,6 @@
+{
+  "name": "Ludo King Royal Arena",
+  "description": "Play vibrant Ludo with real-time online multiplayer, pass & play or vs smart bots, live global chat, and daily lucky wheel rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
